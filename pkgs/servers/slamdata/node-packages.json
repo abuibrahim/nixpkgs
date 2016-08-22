@@ -1,0 +1,30 @@
+{
+  "name": "slamdata",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "chromedriver": "^2.24.0",
+    "expose-loader": "^0.7.1",
+    "gulp": "^3.9.1",
+    "gulp-content-filter": "0.0.0",
+    "gulp-footer": "^1.0.5",
+    "gulp-header": "^1.8.8",
+    "gulp-less": "^3.1.0",
+    "gulp-purescript": "^1.0.0",
+    "gulp-replace": "^0.5.4",
+    "gulp-trimlines": "^1.0.0",
+    "json-loader": "^0.5.4",
+    "less": "^2.7.1",
+    "platform": "^1.3.1",
+    "rimraf": "^2.5.4",
+    "run-sequence": "^1.2.2",
+    "selenium-webdriver": "2.53.2",
+    "webpack": "^2.1.0-beta.21",
+    "webpack-stream": "^3.2.0",
+    "echarts": "^3.2.3",
+    "fs": "^0.0.2",
+    "jsrsasign": "5.0.1",
+    "minimatch": "^3.0.3",
+    "virtual-dom": "^2.1.1",
+    "zeroclipboard": "^2.2.0"
+  }
+}

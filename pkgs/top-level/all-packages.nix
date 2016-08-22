@@ -10720,6 +10720,8 @@ in
 
   sipwitch = callPackage ../servers/sip/sipwitch { };
 
+  slamdata = callPackage ../servers/slamdata { };
+
   smcroute = callPackage ../servers/smcroute { };
 
   spawn_fcgi = callPackage ../servers/http/spawn-fcgi { };
